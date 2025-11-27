@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\PrintConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\PrintConsole.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\PrintConsole.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\PrintConsole.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\bin\Debug\net8.0\PrintConsole.exe
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\bin\Debug\net8.0\PrintConsole.deps.json
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\bin\Debug\net8.0\PrintConsole.runtimeconfig.json
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\bin\Debug\net8.0\PrintConsole.dll
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\bin\Debug\net8.0\PrintConsole.pdb
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\PrintConsole.dll
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\refint\PrintConsole.dll
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\PrintConsole.pdb
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\PrintConsole.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Documents\Coding\C#\Workshop 1\PrintConsole\obj\Debug\net8.0\ref\PrintConsole.dll

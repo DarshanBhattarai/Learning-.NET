@@ -1,0 +1,18 @@
+# Build directories
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.vs/
+
+# Logs
+*.log
+
+# Executables
+*.exe
+*.dll
+*.pdb
+*.cache
+
